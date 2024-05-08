@@ -1,0 +1,18 @@
+[submodule "Catch2"]
+	path = Catch2
+	url = https://github.com/catchorg/Catch2.git
+[submodule "MNN"]
+	path = MNN
+	url = https://github.com/alibaba/MNN.git
+[submodule "yaml-cpp"]
+	path = yaml-cpp
+	url = https://github.com/jbeder/yaml-cpp.git
+[submodule "indicators"]
+	path = indicators
+	url = https://github.com/p-ranav/indicators.git
+[submodule "spdlog"]
+	path = spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "inspireface-precompile"]
+	path = inspireface-precompile
+	url = https://github.com/HyperInspire/inspireface-precompile.git
