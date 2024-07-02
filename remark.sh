@@ -28,7 +28,7 @@ git add indicators
 # spdlog
 cd spdlog
 git fetch --tags
-git checkout tags/v1.12.0
+git checkout tags/v1.9.0
 cd ..
 git add spdlog
 
